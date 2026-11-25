@@ -1,0 +1,8 @@
+{
+  "name": "mfu-ride",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
